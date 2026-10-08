@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Giuseppe 👋
+# Hi, I'm Giuseppe 👋🏽
 
 </div>
 
@@ -12,15 +12,19 @@
 ---
 
 ### 🚀 About Me
-I am a Computer Engineering graduate passionate about the broad world of computer engineering, from core software design to Artificial Intelligence and modern system architectures. I enjoy exploring intelligent systems and building clean, efficient solutions using Linux (Ubuntu), Docker, and Git.
+Master's Graduate in Computer Engineering, passionate about computer engineering, artificial intelligence, and software development, with a strong foundation in core development languages. Highly dedicated and insatiably curious, I approach every project with enthusiasm, constantly striving for high-quality results. Highly motivated to actively contribute to the challenges of the tech industry.
 
 ---
 
 ### 🛠️ Tech Stack & Skills
-*(Here we will list the specific technologies and frameworks from your curriculum/projects)*
-* **Core & Languages:** *(To be added from CV)*
-* **AI & Systems:** *(To be added from CV)*
-* **Tools & Environments:** Ubuntu, Docker, VS Code, Git
+
+* **Programming Languages:** Java, C#, C, Python, SQL, PHP, JavaScript, R, Bash Scripting
+* **Frameworks & Web:** FastAPI, Flask, ASP.NET
+* **Databases & Cloud:** PostgreSQL, MongoDB, Neo4j, Docker, AWS
+* **Data Science & ML:** NumPy, Pandas, TensorFlow, PyTorch
+* **Security & Testing:** JUnit, PyTest, Postman, JWT, RBAC, PKI, AES/RSA
+* **Tools & OS:** Linux (Ubuntu), Git, Kubernetes, Jenkins, Mininet, Swagger/OpenAPI
+* **Architecture & Methods:** Agile/SCRUM, CI/CD, Microservices, RESTful APIs, Event-Driven
 
 ---
 
