@@ -26,8 +26,7 @@ I am a Computer Engineering graduate passionate about the broad world of compute
 
 ### 📈 GitHub Stats
 <p align="center">
-  <!-- GitHub stats placeholder - it will display your activity metrics -->
-  <img src="https://github-readme-stats.vercel.app/api?username=GiuseppeAnzivino&show_icons=true&theme=radical&hide_border=true" alt="Giuseppe's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuseppeAnzivino&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
 </p>
 
 ---
